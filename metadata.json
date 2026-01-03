@@ -1,0 +1,7 @@
+{
+  "name": "Gemini-Powered Gesture 3D Particle System",
+  "description": "A high-performance real-time 3D particle system using Three.js and MediaPipe hand tracking, featuring gesture-controlled expansion/contraction and diverse shape morphing (including bottles).",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
